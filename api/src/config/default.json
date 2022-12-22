@@ -3,6 +3,6 @@
       "port": 3000
     },
     "database": {
-        "server": "mongodb+srv://sa:0xVs1pEqQkYy2hcR@cluster.bxfbs.mongodb.net/recipeAppDB?retryWrites=true&w=majority"
+        "server": "--MONGODBURL--"
       }
 }
